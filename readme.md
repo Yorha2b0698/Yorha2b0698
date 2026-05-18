@@ -11,13 +11,13 @@
   <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1> 
   <p style="fontSize:15px">
- Full Stack Developer with 5+ years of experience building and deploying production web applications
+ Full Stack Developer with 3+ years of experience building and deploying production web applications
   using JavaScript, Node.js, React, and Django. Strong background in backend API development, database
   design, and cloud deployment using AWS and Docker. Experienced in delivering scalable systems from
   architecture design through production release in fast-paced environments
 </p>
 <p align="center">
-  <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Developer;5+%2B%20years%20of%20extensive%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Developer;3+%2B%20years%20of%20extensive%20experience;&center=true&width=800&height=45"></a>
 </p>
  
 <h2>📊 Github Activity</h2>
